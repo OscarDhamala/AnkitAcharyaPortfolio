@@ -1,0 +1,108 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+
+.logo:hover{
+    transform: scale(1.009);
+    transition: 1s;
+
+}
+
+.btn{
+    border-radius: 20px;
+}
+
+.btn:hover{
+    transition: 1.1s;
+}
+
+.btn2{
+    border-radius: 20px;
+    margin-left: -11%;
+    margin-top: -11%;
+}
+
+.btn2:hover{
+    transition: 1.1s;
+}
+
+
+a{
+    margin: 10px;
+    font-size: 17.7px;
+}
+
+.img1{
+    width: 65%;
+    border-radius: 25%;
+    margin-left: 20%;
+}
+
+.img1:hover{
+    border-radius: 39%;
+    transform: scale(1.02);
+    transition: 1s;
+    box-shadow: 10px 15px gray;
+}
+
+.social i{
+    font-size: 35px;
+    color: grey;
+    margin: -3%;
+
+}
+
+.social i:hover{
+    transform: scale(1.03);
+    transition: 1s;
+    color: green;
+}
+
+.pub{
+    text-align: center;
+}
+
+.pub:hover{
+    transform: scale(1.02);
+    transition: 1.1s;
+}
+
+.pubbtn{
+    width: 90%;
+    justify-content: center;
+    align-items: center;
+}
+
+.bx{
+    font-size: 35px;
+    margin: -2%;
+}
+
+.bx:hover{
+    color: gray;
+   
+}
+
+.box:hover{
+    cursor: pointer;
+    background-color: whitesmoke;
+    border-radius: 20px;
+    transform: scale(1.01);
+    transition: 1.03s;
+}
+
+.serbtn{
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -4.5%;
+  
+}
+
+
